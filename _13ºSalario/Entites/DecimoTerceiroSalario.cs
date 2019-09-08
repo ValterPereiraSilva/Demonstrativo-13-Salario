@@ -44,7 +44,7 @@ namespace _13ºSalario.Entities
 
         public double MediaHoraExtra100()
         {
-            return (Hora * HoraExtra100 * 100 / 100 + Hora * HoraExtra100)  / 12.0;
+            return (Hora * HoraExtra100 * 1 + Hora * HoraExtra100)  / 12.0;
         }
 
         public double MediaHoraExtra()
