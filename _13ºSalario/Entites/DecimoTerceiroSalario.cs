@@ -39,12 +39,12 @@ namespace _13ºSalario.Entities
 
         public double MediaHoraExtra75()
         {
-            return (Hora *  HoraExtra75 * 0.75 + Hora * HoraExtra75) / 12.0 ;
+            return Hora * HoraExtra75 / 12.0 * 1.75;
         }
 
         public double MediaHoraExtra100()
         {
-            return (Hora * HoraExtra100 * 1 + Hora * HoraExtra100)  / 12.0;
+            return Hora * HoraExtra100 / 12.0 * 2.0;
         }
 
         public double MediaHoraExtra()
@@ -54,7 +54,7 @@ namespace _13ºSalario.Entities
 
         public double MediaAdicionalNotruno()
         {
-            return (Hora * 0.35 * AdicionalNoturno) / 12.0;
+            return Hora * 0.35 * AdicionalNoturno / 12.0;
         }
 
         public double BaseCalculoInss()
