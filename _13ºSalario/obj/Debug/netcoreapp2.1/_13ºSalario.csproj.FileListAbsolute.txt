@@ -1,0 +1,11 @@
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\bin\Debug\netcoreapp2.1\_13ºSalario.deps.json
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\bin\Debug\netcoreapp2.1\_13ºSalario.runtimeconfig.json
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\bin\Debug\netcoreapp2.1\_13ºSalario.runtimeconfig.dev.json
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\bin\Debug\netcoreapp2.1\_13ºSalario.dll
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\bin\Debug\netcoreapp2.1\_13ºSalario.pdb
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.csprojAssemblyReference.cache
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.csproj.CoreCompileInputs.cache
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.AssemblyInfoInputs.cache
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.AssemblyInfo.cs
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.dll
+C:\Users\Valter\source\repos\_13ºSalario\_13ºSalario\obj\Debug\netcoreapp2.1\_13ºSalario.pdb
